@@ -2,9 +2,6 @@
 #     return n % 2 == 1
 #
 # print(is_odd(12))
-import re
-import string
-
 
 # def is_leapyear(year):
 #     if year % 400 == 0:
@@ -72,3 +69,4 @@ import string
 #     return result
 #
 # print(remove_dups("Hello World"))
+
